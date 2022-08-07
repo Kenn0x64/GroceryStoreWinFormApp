@@ -1,0 +1,15 @@
+C:\Users\Bob\source\repos\A3\A3\bin\Debug\netcoreapp3.1\A3.exe
+C:\Users\Bob\source\repos\A3\A3\bin\Debug\netcoreapp3.1\A3.deps.json
+C:\Users\Bob\source\repos\A3\A3\bin\Debug\netcoreapp3.1\A3.runtimeconfig.json
+C:\Users\Bob\source\repos\A3\A3\bin\Debug\netcoreapp3.1\A3.runtimeconfig.dev.json
+C:\Users\Bob\source\repos\A3\A3\bin\Debug\netcoreapp3.1\A3.dll
+C:\Users\Bob\source\repos\A3\A3\bin\Debug\netcoreapp3.1\A3.pdb
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.csprojAssemblyReference.cache
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.Form1.resources
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.csproj.GenerateResource.cache
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.AssemblyInfo.cs
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.dll
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.pdb
+C:\Users\Bob\source\repos\A3\A3\obj\Debug\netcoreapp3.1\A3.genruntimeconfig.cache
